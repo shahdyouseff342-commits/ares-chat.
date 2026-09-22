@@ -1,0 +1,17 @@
+{
+  "name": "ARES Chat - إدارة الواتساب والأقساط",
+  "short_name": "ARES Chat",
+  "description": "تطبيق ARES لإدارة محادثات الواتساب، تحليل البصمات، وتسجيل أنظمة الدفعات",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0e14",
+  "theme_color": "#0b0e14",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ]
+}
